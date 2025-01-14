@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I am KayMohh 👋
+
+- 👀 I’m interested in  Web / App developement | Artificial Intelligence and Machine Learning | and App Development
+- 👯 I’m looking to collaborate on working as a Team with other Developers
+- ⚡ Fun fact: My rubber duck knows all my secrets.
+
+
 
 <!--
 **KayMohh/kaymohh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
