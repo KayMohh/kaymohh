@@ -1,6 +1,7 @@
 ## Hi there, I am KayMohh 👋
+![Uploading 68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966.gif…]()
 
-- 👀 I’m interested in  Web / App developement | Artificial Intelligence and Machine Learning | and App Development
+- 👀 I’m interested in  Web / App developement | Artificial Intelligence and Machine Learning | Open-Source | Training
 - 👯 I’m looking to collaborate on working as a Team with other Developers
 - ⚡ Fun fact: My rubber duck knows all my secrets.
 
